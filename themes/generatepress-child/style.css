@@ -1,0 +1,396 @@
+/*
+Theme Name: GeneratePress Child
+Theme URI: https://generatepress.com
+Template: generatepress
+Author: Tom Usborne
+Author URI: https://tomusborne.com
+Description: GeneratePress is a lightweight WordPress theme built with a focus on speed and usability. Performance is important to us, which is why a fresh GeneratePress install adds less than 15kb (gzipped) to your page size. We take full advantage of the new block editor (Gutenberg), which gives you more control over creating your content. If you use page builders, GeneratePress is the right theme for you. It is completely compatible with all major page builders, including Beaver Builder and Elementor. Thanks to our emphasis on WordPress coding standards, we can boast full compatibility with all well-coded plugins, including WooCommerce. GeneratePress is fully responsive, uses valid HTML/CSS and is translated into over 25 languages by our amazing community of users. A few of our many features include microdata integration, 9 widget areas, 5 navigation locations, 5 sidebar layouts, dropdown menus (click or hover) and navigation color presets. Learn more and check out our powerful premium version at https://generatepress.com
+Tags: two-columns,three-columns,one-column,right-sidebar,left-sidebar,footer-widgets,blog,e-commerce,flexible-header,full-width-template,buddypress,custom-header,custom-background,custom-menu,custom-colors,sticky-post,threaded-comments,translation-ready,rtl-language-support,featured-images,theme-options
+Version: 2.2.2.1556156766
+Updated: 2019-04-25 01:46:06
+
+*/
+
+
+
+/*------------HOME PAGE-------------*/
+
+/*Block One*/
+.home-blockOne-container{
+
+}
+.home-blockOne-containerLeft{
+
+}
+.home-blockOne-containerRight{
+
+}
+.home-blockOne-heading{
+    color: #692e4e;
+}
+.home-blockOne-bodyText{
+
+}
+.home-blockOne-button{
+    color: #ffff !important;
+    background-color: #425573 !important;
+}
+
+/*Block Two*/
+.home-blockTwo-container{
+    background-color: #692e4e;
+}
+.home-blockTwo-heading{
+    color: #ffff;
+}
+.home-blockTwo-subheading{
+    color: #ffff;
+}
+
+
+/*------------Our-Story/About PAGE-------------*/
+
+/*Block One*/
+.about-blockOne-container{
+
+}
+.about-blockOne-containerLeft{
+
+}
+.about-blockOne-containerRight{
+
+}
+.about-blockOne-heading{
+    color: #692e4e;
+}
+.about-blockOne-bodyText{
+
+}
+.about-blockOne-secondaryHeading{
+    color: #425573;
+}
+.about-blockOne-button{
+    color: #ffff !important;
+    background-color: #425573 !important;
+}
+.about-blockOne-image{
+
+}
+
+/*Block Two*/
+.about-blockTwo-container{
+    background-color: #692e4e;
+}
+.about-blockTwo-heading{
+    color: #ffff;
+}
+.about-blockTwo-individualContainers{
+
+}
+.about-blockTwo-images{
+
+}
+.about-blockTwo-names{
+    color: #425573;
+}
+.about-blockTwo-titles{
+    color: #425573;
+}
+.about-blockTwo-bodyText{
+    background-color: #ffff;
+    color: #425573;
+}
+
+/*Block Three*/
+.about-blockThree-container{
+
+}
+.about-blockThree-containerLeft{
+
+}
+.about-blockThree-containerRight{
+
+}
+.about-blockThree-image{
+
+}
+.about-blockThree-heading{
+    color: #692e4e;
+}
+.about-blockThree-bodyText{
+
+}
+.about-blockThree-button{
+    color: #ffff !important;
+    background-color: #425573 !important;
+}
+
+/*------------Contact PAGE-------------*/
+
+/*Block One*/
+.contact-blockOne-container{
+
+}
+.contact-blockOne-containerInd{
+    margin-top: 30px;
+}
+.contact-blockOne-headings{
+    color: #692e4e;
+}
+.contact-blockOne-links{
+    color: #59585e;
+}
+.contact-blockOne-icons{
+    color: #fe2820;
+}
+.contact-blockOne-subheadings{
+    color: #59585e;
+}
+
+.contact-blockTwo-container{
+    background-color: #692e4e;
+}
+.contact-blockTwo-heading{
+    color: #ffff;
+}
+.contact-blockTwo-subheading{
+    color: #ffff;
+}
+
+/*------------Pricing PAGE-------------*/
+
+/*Block One*/
+.pricing-blockOne-container{
+
+}
+.pricing-blockOne-heading{
+    color: #692e4e;
+}
+.pricing-blockOne-bodyText{
+
+}
+
+
+/*Block Two*/
+.pricing-blockTwo-container{
+    background-color: #425573;
+}
+.pricing-blockTwo-containers{
+
+}
+.pricing-blockTwo-innerContainers{
+    background-color: #efefef;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.pricing-blockTwo-headingContainer{
+    background-color: #000;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.pricing-blockTwo-heading{
+    font-size: 20px;
+    color: #ffff;
+}
+.pricing-blockTwo-pricingContainer{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.pricing-blockTwo-pricing{
+    font-size: 70px;
+    margin-bottom: 20px !important;
+}
+.pricing-blockTwo-infoContainer{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.pricing-blockTwo-info{
+
+}
+
+/*Block Three*/
+.pricing-blockThree-container{
+
+}
+.pricing-blockThree-heading{
+    color: #692e4e;
+}
+.pricing-blockThree-listIcons{
+
+}
+.pricing-blockThree-listText{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+/*Block Four*/
+.pricing-blockFour-container{
+    background-color: #692e4e;
+}
+.pricing-blockFour-heading{
+    color: #ffff;
+}
+.pricing-blockFour-subheading{
+    color: #ffff;
+}
+
+
+/*------------Our Litters PAGE-------------*/
+
+/*Block One*/
+.litters-blockOne-container{
+
+}
+.litters-blockOne-heading{
+    color: #692e4e;
+}
+.litters-blockOne-container-puppy{
+
+}
+.litters-blockOne-image{
+
+}
+.litters-blockOne-title{
+
+}
+.litters-blockOne-button{
+    color: #ffff !important;
+    background-color: #425573 !important;
+}
+
+/*Block Two*/
+.litters-blockTwo-container{
+    background-color: #692e4e;
+}
+.litters-blockTwo-heading{
+    color: #ffff;
+}
+.litters-blockTwo-bodyText{
+    color: #ffff;
+}
+.litters-blockTwo-button{
+    color: #425573 !important;
+    background-color: #ffff !important;
+}
+
+/*------------Puppy POST-------------*/
+
+/*Block One*/
+.puppy-blockOne-container{
+
+}
+.puppy-blockOne-container-left{
+
+}
+.puppy-blockOne-container-right{
+
+}
+.puppy-blockOne-heading{
+    color: #692e4e;
+}
+.puppy-blockOne-bodyText{
+
+}
+.puppy-blockOne-button{
+    color: #ffff !important;
+    background-color: #425573 !important;
+}
+.puppy-blockOne-image{
+
+}
+.puppy-blockOne-title{
+
+}
+
+/*Block Two*/
+.puppy-blockTwo-container{
+
+}
+.puppy-blockTwo-container-left{
+
+}
+.puppy-blockTwo-container-right{
+
+}
+.puppy-blockTwo-headings{
+    color: #425573;
+}
+.puppy-blockTwo-images{
+    max-width: 300px;
+}
+.puppy-blockTwo-titles{
+
+}
+.puppy-blockTwo-subtitles{
+
+}
+
+/*Block Three*/
+.puppy-blockThree-container{
+    background-color: #692e4e;
+}
+.puppy-blockThree-button{
+    color: #ffff !important;
+    background-color: #425573 !important;
+}
+
+
+
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row.display-flex > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
+
+.featured-fix {
+    height: 100%;
+}
+.contactForm-button{
+    color: #ffff !important;
+    background-color: #425573 !important;
+}
+.footer{
+    background-color: #262f2a;
+    color: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+/* Grow */
+.hvr-grow {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
